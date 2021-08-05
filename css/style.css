@@ -412,6 +412,7 @@ body {
   text-align: center;
   top: 0;
   left: 0;
+  padding-top: 1px;
   font-size: 14px;
   vertical-align: middle;
   z-index: 20;
